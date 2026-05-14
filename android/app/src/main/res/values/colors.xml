@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Vitalis Primary Palette -->
+    <color name="vitalis_primary">#024481</color>
+    <color name="vitalis_on_primary">#FFFFFF</color>
+    <color name="vitalis_primary_container">#2a5c9a</color>
+    <color name="vitalis_on_primary_container">#bcd5ff</color>
+
+    <!-- Vitalis Secondary (Teal) Palette -->
+    <color name="vitalis_secondary">#15696c</color>
+    <color name="vitalis_on_secondary">#FFFFFF</color>
+    <color name="vitalis_secondary_container">#a3ecef</color>
+    <color name="vitalis_on_secondary_container">#1c6d70</color>
+
+    <!-- Neutral / Surface Colors -->
+    <color name="vitalis_surface">#f9f9ff</color>
+    <color name="vitalis_on_surface">#1a1c20</color>
+    <color name="vitalis_surface_container">#ededf3</color>
+    <color name="vitalis_surface_variant">#e2e2e8</color>
+    <color name="vitalis_on_surface_variant">#424750</color>
+    <color name="vitalis_outline">#737781</color>
+    <color name="vitalis_outline_variant">#c2c6d1</color>
+
+    <!-- Error Colors -->
+    <color name="vitalis_error">#ba1a1a</color>
+    <color name="vitalis_on_error">#FFFFFF</color>
+    <color name="vitalis_error_container">#ffdad6</color>
+    <color name="vitalis_on_error_container">#93000a</color>
+
+    <!-- Gradient Colors -->
+    <color name="vitalis_gradient_start">#024481</color>
+    <color name="vitalis_gradient_end">#2a5c9a</color>
+
+    <!-- Standard Material colors mappings -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dashboard & Professional Theme -->
+    <style name="Theme.Vitalis" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/vitalis_primary</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/vitalis_secondary</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Surface colors -->
+        <item name="android:windowBackground">@color/vitalis_surface</item>
+
+        <!-- Global Styles for Dynamic Content -->
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+        <item name="buttonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+        <item name="android:textViewStyle">@style/VitalisText</item>
+    </style>
+
+    <style name="VitalisText" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/vitalis_on_surface</item>
+    </style>
+
+</resources>
